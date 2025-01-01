@@ -174,6 +174,8 @@ example Api URL
 
 2 ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://github.com/user-attachments/assets/8a0f8c53-839f-4190-9897-78d22a5aa1a3)
 
-3 
+3 ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://github.com/user-attachments/assets/a0f3d157-729d-4582-a614-69e8de7eb722)
+
+4 
 
 Skycast is not only a functional weather app but also a showcase of how Python's simplicity and powerful APIs can be leveraged to create useful, real-world applications. Whether for casual users or developers looking to expand its capabilities, Skycast serves as an excellent blend of technology and utility.
