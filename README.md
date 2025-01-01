@@ -160,9 +160,13 @@ Preparation:
 Testing Steps:
 
 1.Verify API Key Authentication
+
    Send a Test Request: Use the API key in an endpoint that requires authentication.
+   
    Headers: Pass the key in the headers (e.g., Authorization or x-api-key).
+   
    Query Parameters: Include the key in the URL query string (if required).
+   
 example Api URL
 
        https://api.openweathermap.org/data/2.5/weather?lat=27.4231&lon=77.0947&appid=dc6ecf8e12fb6e78c7cb9d0b3d13cd2b
