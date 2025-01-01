@@ -140,8 +140,36 @@ Skycast is a cutting-edge weather forecasting application that leverages modern 
       
       
 ### Phase 3:
-### Steps of code Running:
- 
+### API KEY Preparation and Testing
 
+
+Preparation:
+
+1.Obtain the API Key
+   Get the API key from the service provider. Ensure you store it securely and 
+    avoid sharing it publicly.
+
+2.Read the API Documentation
+
+3.Set Up Tools for Testing
+   Use tools like:
+ Postman: For sending API requests.
+ Curl: Command-line tool for testing APIs.
+ Custom Code: Write a script using programming languages like Python, JavaScript, etc.
+
+Testing Steps:
+
+1.Verify API Key Authentication
+   Send a Test Request: Use the API key in an endpoint that requires authentication.
+   Headers: Pass the key in the headers (e.g., Authorization or x-api-key).
+   Query Parameters: Include the key in the URL query string (if required).
+example Api URL
+
+       https://api.openweathermap.org/data/2.5/weather?lat=27.4231&lon=77.0947&appid=dc6ecf8e12fb6e78c7cb9d0b3d13cd2b
+
+
+
+ 
+ 
 
 Skycast is not only a functional weather app but also a showcase of how Python's simplicity and powerful APIs can be leveraged to create useful, real-world applications. Whether for casual users or developers looking to expand its capabilities, Skycast serves as an excellent blend of technology and utility.
